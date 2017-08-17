@@ -3,10 +3,6 @@
 <h2>Vagrant Box Downloads for VirtualBox</h2>
 <b>CentOS 6.5</b>:
 
-Torrent (recommended): http://benpiper.github.io/course-files/puppet-system-administrators-fundamentals/centos65.box.torrent
-<br>
-<i>NB: If you download the torrent, please seed it for at least a couple of days so others can download the image faster.</i>
-
 Dropbox: https://www.dropbox.com/s/206lcenz3o45c79/centos65.box?dl=1
 
 <b>Ubuntu 14.04 LTS</b>: http://cloud-images.ubuntu.com/vagrant/trusty/current/trusty-server-cloudimg-amd64-vagrant-disk1.box
@@ -24,8 +20,7 @@ Note for RHEL/CentOS Linux users: You may need to run the following commands aft
 1. `git clone` this repository or download `master.zip` and unzip to the `puppet-fundamentals-lab` directory and `cd` to it.
 
 2. Download the CentOS 6.5 Vagrant box to the `puppet-fundamentals-lab` directory: 
-https://www.dropbox.com/s/206lcenz3o45c79/centos65.box?dl=1 or<br> 
-http://benpiper.github.io/course-files/puppet-system-administrators-fundamentals/centos65.box.torrent<br>
+https://www.dropbox.com/s/206lcenz3o45c79/centos65.box?dl=1
 Ensure the file is saved as `centos65.box`.
 
 3. Add the CentOS 6.5 box you just downloaded:
